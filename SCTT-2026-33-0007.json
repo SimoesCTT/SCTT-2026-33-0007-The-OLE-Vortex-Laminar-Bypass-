@@ -1,0 +1,9 @@
+{
+  "id": "SCTT-2026-33-0007",
+  "project": "OLE-Vortex-Document-Bypass",
+  "provenance": "SimoesCTT Research Group",
+  "vulnerability_type": "Recursive OLE Phase Transition",
+  "obsoletes": ["CVE-2026-21509"],
+  "impact": "Remote Code Execution via Document Rendering",
+  "status": "Verified Sovereign Vector"
+}
